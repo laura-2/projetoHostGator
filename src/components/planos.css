@@ -1,0 +1,89 @@
+h3{
+    font-weight: bold;
+    font-size: 26px;
+    color: #1D5297;
+}
+img{
+    top: 663px;
+    left: 602px;
+    height: 39px;
+    opacity: 1;
+}
+.posicao{
+    margin-top: 70px;
+    width: 250px;
+    height: 600px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DFECFF;
+    opacity: 1;
+    margin-right: 10px;
+}
+
+.riscado{
+    font-family: Galano Grotesque Alt;
+    font-size: 13px;
+    color: #333333;
+}
+
+.planos {
+    font-family: Montserrat;
+    width:250px;
+    height:400px;
+    text-align: center;
+}
+
+.plano {
+    color: #1D5297;
+    font-size: 35px;
+}
+
+.economize{
+    color: #1D5297;
+    font-size: 14px;
+}
+.dominio{
+    font-size: 15px;
+    color: #333333;
+}
+.i{
+    left: 230px;
+    width: 15px;
+    height: 15px;
+    opacity: 1;
+}
+
+.botao {
+    top: 909px;
+    left: 1176px;
+    width: 220px;
+    height: 40px;
+    text-align: center;
+    font: normal normal bold 22px/27px Montserrat;
+    color: #FFFFFF;
+    opacity: 1;
+    background: #4480C5;
+    border-radius: 26px;
+    border-color: #4480C5;
+}
+
+.off {
+    color: #FFFFFF;
+    font-size: 14px;
+    background: #51C99C 0% 0% no-repeat padding-box;
+    border-radius: 100px;
+    padding: 3px;
+}
+ul{
+    font-size: 16px;
+    color: #333333;
+    font-family: Galano Grotesque Alt;
+    list-style-type: none;
+}
+.sites{
+    text-align: left;
+}
+li{
+    list-style-type: none;
+    text-align: left;
+}
+

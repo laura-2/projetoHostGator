@@ -1,0 +1,119 @@
+.titulo{
+    padding-left: 15%;
+    width: 250px;
+}
+
+.homem{
+    top: 55px;
+    padding-left: 500px;
+    width: 350px;
+    height: 346px;
+    opacity: 1;
+}
+.armario{
+    top: 40px;
+    padding-left: 40px;
+    width: 400px;
+    height: 346px;
+    opacity: 1;
+}
+  
+.fundo{
+    background-color: #1D5297;
+    height: 300px;  
+}
+
+.subtitulo{
+    position: absolute;
+    top: 90px;
+    left: 600px;
+    font-family: Montserrat;
+    font-size: 16px;
+    color: #B9D0EF;
+}
+.inicio {
+    position: absolute;
+    top: 110px;
+    left: 430px;
+    font-family: Montserrat;
+    font-size: 30px;
+    color: #FFFFFF;
+
+}
+.inicio2 {
+    position: absolute;
+    top: 140px;
+    left: 445px;
+    font-family: Montserrat;
+    font-size: 30px;
+    color: #FFFFFF;
+
+}
+
+.botoes {
+    position: absolute;
+    top: 410px;
+    left: 555px;
+    width: 240px;
+    height: 40px;
+    font-family: Montserrat;
+    font-size: 30px;
+}
+.ano {
+    width: 80px;
+    height: 40px;
+    background: white;
+    border-radius: 21px;
+    border-color: #4480C5;
+    opacity: 1;
+
+}
+.checks1{
+    position: absolute;
+    top: 220px;
+    left: 495px;
+    font-family: Montserrat;
+    font-size: 17px;
+    color: #B9D0EF;
+
+}
+.checks2{
+    position: absolute;
+    top: 240px;
+    left: 480px;
+    font-family: Montserrat;
+    font-size: 17px;
+    color: #B9D0EF;
+
+}
+.checks3{
+    position: absolute;
+    top: 240px;
+    left: 685px;
+    font-family: Montserrat;
+    font-size: 17px;
+    color: #B9D0EF;
+
+}
+
+.imagem{
+    position: absolute;
+    top: 325px;
+    left: 645px;
+    height: 60px;
+    opacity: 1;
+}
+.anos{
+    text-align: center;
+    font: normal normal normal 18px/26px Montserrat;
+    color: #1D5297;
+    opacity: 1;
+}
+.icone{
+    top: 250px;
+    left: 760px;
+    width: 16px;
+    height: 16px;
+    opacity: 1;
+}
+
